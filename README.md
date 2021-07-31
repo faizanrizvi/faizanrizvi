@@ -1,5 +1,5 @@
 ### Hi there, I am Faizan Rizvi👋
-LinkedIn(https://www.linkedin.com/in/faizan-rizvi-4370a5146/)
+[LinkedIn]: https://www.linkedin.com/in/faizan-rizvi-4370a5146/
 
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
