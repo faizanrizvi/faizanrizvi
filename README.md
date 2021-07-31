@@ -4,6 +4,9 @@
 
 [![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi&show_icons=true&theme=radical)](https://github.com/faizanrizvi/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanrizvi)](https://github.com/faizanrizvi/github-readme-stats)
+
+
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
