@@ -2,7 +2,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://rizvi-faizan58.medium.com/)
 </br>
 
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi)](https://github.com/faizanrizvi/github-readme-stats)
+[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvishow_icons=true&theme=radical))](https://github.com/faizanrizvi/github-readme-stats)
 
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
