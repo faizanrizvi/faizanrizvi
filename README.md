@@ -1,5 +1,5 @@
 ### Hi there, I am Faizan Rizvi👋
-[LinkedIn]: https://www.linkedin.com/in/faizan-rizvi-4370a5146/
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
