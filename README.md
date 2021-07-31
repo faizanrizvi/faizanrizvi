@@ -1,5 +1,5 @@
 ### Hi there, I am Faizan Rizvi👋
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]:https://eresh-zealous.medium.com/
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
 
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
