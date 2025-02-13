@@ -23,6 +23,24 @@
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## 🛠️ Skills
+
+### Data Science
+- **Programming**: Python, R
+- **Data Analysis**: Pandas, NumPy, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Big Data**: Hadoop, Spark (basic knowledge)
+
+### RPA (UiPath)
+- **UiPath Studio**: Workflow design, debugging, and deployment
+- **Automation**: Web scraping, Excel automation, API integration
+- **Orchestrator**: Managing robots, queues, and processes
+
+### Other Tools
+- **Version Control**: Git, GitHub
+- **Cloud Platforms**: AWS, Google Cloud (basic knowledge)
+- **Databases**: MySQL, PostgreSQL
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
