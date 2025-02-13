@@ -1,7 +1,8 @@
 ### Hi there, I am Faizan Rizvi👋
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://rizvi-faizan58.medium.com/)
-[<img align="centre" alt="LinkedIn" src="https://camo.githubusercontent.com/b154083c1079493bdd28253a7b20c79b16ceceaf57595605af3d69872e9ad9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d303037374235" />](https://www.linkedin.com/in/faizan-rizvi-4370a5146/)
-</br>
+
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/faizan-rizvi-4370a5146/)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/faizanrizvi)
+![](https://visitor-badge.laobi.icu/badge?page_id=faizanrizvi.faizanrizvi)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi&show_icons=true&theme=gruvbox)
