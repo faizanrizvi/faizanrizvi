@@ -7,6 +7,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanrizvi)](https://github.com/faizanrizvi/github-readme-stats)
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img onclick="#" src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <!--
 **faizanrizvi/faizanrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
