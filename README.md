@@ -3,9 +3,9 @@
 [<img align="centre" alt="LinkedIn" src="https://camo.githubusercontent.com/b154083c1079493bdd28253a7b20c79b16ceceaf57595605af3d69872e9ad9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d303037374235" />](https://www.linkedin.com/in/faizan-rizvi-4370a5146/)
 </br>
 
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi&show_icons=true&theme=radical)](https://github.com/faizanrizvi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanrizvi)](https://github.com/faizanrizvi/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanrizvi&theme=gruvbox)
 
 ## 🧰 Languages and Tools:
 <p align="center">
