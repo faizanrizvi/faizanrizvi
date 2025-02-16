@@ -4,6 +4,23 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/faizanrizvi)
 ![](https://visitor-badge.laobi.icu/badge?page_id=faizanrizvi.faizanrizvi)
 
+🚀 **Data Science & RPA (UiPath) Enthusiast**  
+💻 Passionate about leveraging data and automation to solve real-world problems.  
+🌱 Constantly learning and exploring new technologies in AI, ML, and RPA.  
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Data Scientist** and **RPA Developer** with hands-on experience in building data-driven solutions and automating business processes. My expertise lies in:
+
+- **Data Science**: Data analysis, machine learning, predictive modeling, and data visualization.
+- **RPA (UiPath)**: Designing and deploying automation workflows to streamline business operations.
+- **Tools & Technologies**: Python, R, SQL, UiPath, Power BI, Tableau, and more.
+
+I enjoy working on end-to-end projects, from data collection and cleaning to model deployment and process automation. My goal is to create impactful solutions that drive efficiency and innovation.
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanrizvi&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanrizvi&theme=gruvbox)
